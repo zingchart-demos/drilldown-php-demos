@@ -1,0 +1,46 @@
+[
+    {
+        "name": "zingchart/php_wrapper",
+        "version": "1.0.5",
+        "version_normalized": "1.0.5.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/zingchart/ZingChart-PHP.git",
+            "reference": "f33174b3e8728f1a892b6fd324fdd5f01a56e291"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/zingchart/ZingChart-PHP/zipball/f33174b3e8728f1a892b6fd324fdd5f01a56e291",
+            "reference": "f33174b3e8728f1a892b6fd324fdd5f01a56e291",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^5.3 || ^7.0"
+        },
+        "time": "2016-12-01T20:08:21+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "ZingChart\\PHPWrapper\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "ZingChart",
+                "email": "support@zingchart.com"
+            }
+        ],
+        "description": "PHP wrapper for ZingChart",
+        "homepage": "https://www.zingchart.com",
+        "keywords": [
+            "ZingChart",
+            "charts",
+            "graphs"
+        ]
+    }
+]
